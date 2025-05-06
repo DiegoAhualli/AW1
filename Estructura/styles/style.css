@@ -1,15 +1,13 @@
 .container-1{
-
+    margin: 3rem;
+    padding: 0.5rem;
+    background-color: rgb(90, 90, 90);
+    color: white;
 }
 
 .container-2{
-
-}
-
-.container-3{
-
-}
-
-.container-4{
-
+    margin: 5rem;
+    padding: 1rem;
+    background-color: rgb(90, 90, 90);
+    color: white;
 }
