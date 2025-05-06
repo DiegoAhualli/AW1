@@ -32,6 +32,7 @@ const navBar = `
 
 let navContainer = document.querySelector('header')
 let pageName = document.getElementById('pageName').value
+let title = document.getElementById('title')
 window.addEventListener('load', ()=>{
     navContainer.innerHTML = navBar
     title.textContent = `Bienvenido a ${pageName}`
