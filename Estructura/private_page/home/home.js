@@ -1,0 +1,1 @@
+/*Código para obtener y mostrar la última actividad del usuario*/
